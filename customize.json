@@ -1,0 +1,30 @@
+{
+  "greeting": "Hello",
+  "name": "Ashi",
+  "greetingText": "I feel so fortunate to have met the most beautiful you in the most beautiful years of my life",
+  "wishText": "May your youthful beauty remain like blossoms in your hair,\n year after year. May your dark tresses never grow old, and may every year be filled with joy",
+  "imagePath": "img/image3.jpg",
+  "text1": "Today is your birthday!!! :D",
+  "textInChatBox": "I wish you a very very very happy birthday!!! Lots and lots of happiness...",
+  "sendButtonLabel": "send",
+  "text2": "I want to give you a surprise",
+  "text3": "I thought about it seriously for a long time",
+  "text4": "I realized that I wanted to do something",
+  "text4Adjective": "special things",
+  "text5Entry": "because,",
+  "text5Content": "You are very special to me.",
+  "smiley": ":)",
+  "bigTextPart1": "Place",
+  "bigTextPart2": "by",
+  "wishHeading": "Happy birthday!",
+  "outroText": "I hope you enjoy this little surprise!",
+  "replayText": "If you like it, you can watch it again! Or...",
+  "outroSmiley": ":)",
+  "music": "./music/me.mp3",
+  "fonts": [
+    {
+      "name": "Ashi"
+    }
+  ]
+}
+
